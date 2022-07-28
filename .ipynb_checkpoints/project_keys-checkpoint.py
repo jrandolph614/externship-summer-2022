@@ -1,7 +1,0 @@
-api_key = '1I5XAgRqmJfc0nnlJOCdF0NAS'
-api_secret = 'KTLgqLF5m0SJGyeRtkGXc6OCTayyKn21EHrEJRx2rYqi5TUWfq'
-bearer_api = 'AAAAAAAAAAAAAAAAAAAAAPC5egEAAAAAnnP4e2NMjPuy%2FeqT9TGzar%2F%2BTY8%3DOANCRahFxJuRCYTkD59Q3x5PRkcmThpmNBYKUrsSZXPePROLip'
-client_id_api = 'Zi1VUVpCd3JVVGdnZHk2d3otQTg6MTpjaQ'
-client_secret_api = 'b0KOEZAmjP-tFC8ixH656AH2s9D9rswvGd0KssLXjRdqolVdNy'
-api_access = '369690795-L6wDt2irigslLoIt8xfWHlgbwKSDfCzrPb0gbNut'
-api_access_secret = 'G2N6yPe7s3R6tpPq8bJAqUpn3HPf5BaOBqHt3boWQsgmL'
