@@ -1,2 +1,4 @@
 past_data/
 project/config.py
+.ipynb_checkpoints/
+project/.ipynb_checkpoints/
